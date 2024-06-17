@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Exerc_4 {
+public class Exerc_5 {
 
     // Função para trocar dois elementos em um array
     private static void troca(int[] arr, int i, int j) {
